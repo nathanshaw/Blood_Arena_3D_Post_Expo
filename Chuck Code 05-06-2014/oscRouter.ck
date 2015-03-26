@@ -73,13 +73,6 @@ while (true) {
     if (runState < 1){//to avoid false triggers and uneeded noise
         1 => runState;
     }
-    //<<<"x_axis :", x_axis>>>;
-    //<<<"y_axis :", y_axis>>>;
-    //<<<"x_acc :", x_acc>>>;
-    //<<<"y_acc :", y_acc>>>;
-    //<<<"z_acc :", z_acc>>>;
-    //<<<"-------------------------">>>;
-    //60::second => now;
 }
 
 //////////     **********OUTGOING COMMUNICATION FUNCTIONS*********     \\\\\\\\\\
